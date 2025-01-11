@@ -6,7 +6,7 @@ Here are some images of the app:
 
 | ![Image 1](Routing.png) | ![Image 2](ss01.jpeg) | ![Image 3](ss02.jpeg) |
 |------------------------------|------------------------------|------------------------------|
-| ** Code **       | ** Home Page **       | ** AboutUs Page **       |
+| ** Code **       | ** AboutUs Page **       | ** Home Page **       |
 
 ---
 
